@@ -1,7 +1,7 @@
 {
   "name": "mindfulness-app",
   "version": "1.0.0",
-  "description": "Eine App zur Unterstützung von Achtsamkeit und Meditation",
+  "description": "An app to support mindfulness and meditation",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
